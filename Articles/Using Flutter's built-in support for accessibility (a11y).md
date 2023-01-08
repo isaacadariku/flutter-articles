@@ -71,3 +71,9 @@ We have specified that the image should be excluded from the semantics tree. Thi
 RebelAppStudio made the tool easy to use and can be added to your Flutter app in just a few steps following the instructions on the package’s README page.
 
 It was discussed at #flutterVikings and this is a must-have package for flutter developers. — Tim Sneath
+
+## Conclusion
+
+[Flutter’s accessibility](https://docs.flutter.dev/development/accessibility-and-localization/accessibility) support is based on the a11y framework for iOS and Android. The built-in support for a11y makes it easy for developers to create mobile apps that are more accessible to users with disabilities. By using the various built-in widgets, developers can ensure that their apps are usable by a wider range of users. This helps to promote equal access to information and services and also makes the app more usable for everyone.
+
+If you have any questions or comments reach out to me on [Twitter](https://twitter.com/AdarikuIsaac) or please leave them below. And if you found this article useful, please share it with your friends and colleagues.
