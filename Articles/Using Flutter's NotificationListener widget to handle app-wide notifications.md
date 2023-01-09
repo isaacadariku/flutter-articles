@@ -38,3 +38,13 @@ Notification received: Hello
 You can find the full source code for this example on DartPad:
 
 [Run the demo](https://dartpad.dev/?id=a224a222605834cdc86b672ca0b5b866)
+
+# Conclusion
+
+The NotificationListener widget can be used to listen for notifications from any widget in the app, not just the widget that is a direct parent of the NotificationListener. This means that you can use the NotificationListener widget to listen for notifications from widgets that are not directly connected to the widget tree. For example, if you have a widget that is a direct child of the root widget, you can use the NotificationListener widget to listen for notifications from that widget from any other widget in the app.
+
+Using the NotificationListener widget can be a powerful way to communicate between widgets in a Flutter app and make your code more modular and reusable. It’s a useful tool to have in your toolkit when developing Flutter apps.
+
+If you have any questions or comments reach out to me on [Twitter](https://twitter.com/AdarikuIsaac) or please leave them below. And if you found this article useful, please share it with your friends and colleagues.
+
+Read the full article [here](https://bit.ly/flutter-notification)
